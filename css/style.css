@@ -1,1 +1,131 @@
+html  { background-color: #e6e6e6; }
+a{ color:blue; }
+a:hover { color:  #9999ff; }
 
+
+nav{
+  width: 400px;
+  height: 900px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #404040;
+}
+
+nav p:hover { color: #f1f1f1; }
+
+#sidebar-elements{
+  position: absolute;
+  line-height: 0.5;
+  font-size: 40px;
+  color: #818181;
+  left: 12px;
+}
+
+#Avatar{
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  top:300px;
+  left: 12px;
+}
+
+#Lien-tocqueville{
+  display: flex;
+  position: absolute;
+  font-size: 30px;
+  left: 12px;
+  bottom: 12px;
+}
+
+h1{
+  font-size: 40px;
+	text-align: center;
+}
+
+main{
+  width: 1200px;
+  height: 900px;
+  margin-left: 400px;
+}
+
+
+
+#index .Part{
+  line-height: 3.6;
+  font-size : 55px;
+  color:   #595959;
+  font-weight: bold;
+}
+
+#troccaz-pic {
+  width: 475px;
+  height: 475px;
+  margin-top: 75px;
+  float: right;
+}
+
+
+
+#section-1{
+  font-size: 25px;
+}
+
+#section-1 img{
+  padding: 0 15px;
+  float: right;
+  width: 200px;
+  height:200px;
+}
+
+#section-2{
+  font-size: 25px;
+}
+
+#section-2 img{
+  padding: 0 15px;
+  float: left;
+  width: 200px;
+  height:200px;
+}
+
+
+
+#section-3{
+  font-size: 25px;
+}
+
+#section-3 img{
+  padding: 0 15px;
+  float: right;
+  width: 255px;
+  height:225px;
+}
+
+#section-4{
+  font-size: 25px;
+}
+
+#section-4 img{
+  padding: 0 15px;
+  float: left;
+  width: 250px;
+  height:250px;
+}
+
+
+
+
+#Part3 h1, h2{
+  font-size: 50px;
+	text-align: center;
+}
+
+#Part3 h3{
+  font-size: 30px;
+}
+
+#Part3 ul{
+    line-height: 1.6;
+    font-size: 20px;
+}
